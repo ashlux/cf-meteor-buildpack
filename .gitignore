@@ -1,3 +1,6 @@
 .idea
 *.iml
 *.ipr
+dist
+*.tar.gz
+*.zip
